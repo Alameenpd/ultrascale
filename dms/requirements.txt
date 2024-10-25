@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+prisma
+pydantic
+python-dotenv
+bcrypt
+celery
+redis
